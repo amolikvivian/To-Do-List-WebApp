@@ -8,4 +8,4 @@ A basic To Do List Web Application designed with JavaScript, CSS and HTML. Getti
 <img src='images/list.png'>
 
 ## Checked items
-<img src='images/layout.png'>
+<img src='images/checked-list.png'>
