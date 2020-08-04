@@ -9,3 +9,6 @@ A basic To Do List Web Application designed with JavaScript, CSS and HTML. Getti
 
 ## Checked items
 <img src='images/checked-list.png'>
+
+
+References and tutorials - [DevEd](youtube.com/deved)
